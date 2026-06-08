@@ -7,7 +7,7 @@
 
 ## 🔧 Stack Tecnológico
 - **Front-end:** React, JavaScript, HTML5, CSS3  
-- **Back-end:** Python, Node.js (en estudio)  
+- **Back-end:** Python, Node.js  
 - **Datos & Herramientas:** JSON, Power BI  
 - **Otros:** Git & GitHub, metodologías ágiles, sistemas CRUD  
 
